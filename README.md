@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshi Bail</h1>
+<h1 align="center">Hi 👋, I'm Lokesh Soni</h1>
 <h3 align="center">A Secure, Scalable, and User-Driven P2P Exchange for Seamless Crypto Trading</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.nadcab.com/public/animation/img/p2p-exchange-development-services.jpg>
+<img align="right" alt="coding" width="400" src="[https://www.nadcab.com/public/animation/img/p2p-exchange-development-services.jpg](https://www.nadcab.com/public/animation/img/p2p-exchange-development-services.jpg)>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshibail&label=Profile%20views&color=0e75b6&style=flat" alt="harshibail" /> </p>
 
